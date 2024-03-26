@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reiki-lab
-- 👀 I’m interested in ... naps
+- 👀 I’m interested in ... meditation, naps, japanese stationary
 - 🌱 I’m currently learning ... dev things
 - 💞️ I’m looking to collaborate on ... fun web3 projects
 - 📫 How to reach me ... send me a message 
