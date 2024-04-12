@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reiki-lab
-- 👀 I’m interested in ... meditation, naps, japanese stationary
-- 🌱 I’m currently learning ... dev things
-- 💞️ I’m looking to collaborate on ... fun web3 projects
+- 👀 I’m interested in ... meditation, naps, coffee
+- 🌱 I’m currently learning ... dev things!
+- 💞️ I’m looking to collaborate on ... fun projects
 - 📫 How to reach me ... send me a message 
 
 <!---
