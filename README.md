@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reiki-lab
+- 👋 Hi, I’m @reiki-lab. I also go by Amy.
 - 👀 I’m interested in ... meditation, naps, coffee
 - 🌱 I’m currently learning ... dev things!
 - 💞️ I’m looking to collaborate on ... fun projects
